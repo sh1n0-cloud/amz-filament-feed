@@ -2,63 +2,91 @@
 <rss version="2.0"><channel>
 <title>Amazon フィラメント セール（疑似フィード）</title>
 <link>https://www.amazon.co.jp/</link>
-<description>Amazon.co.jp の PLA / PETG / TPU / TPE フィラメントのセール品（過去価格より5%以上安いもの、またはクーポン付き）を mcp-server 上のスクリプトが自動収集した疑似フィード。</description>
-<lastBuildDate>Mon, 16 Nov 2026 14:23:32 -0000</lastBuildDate>
+<description>PLA/PETG/TPU/TPE フィラメントのセール品（割引5%以上またはクーポン付き）を mcp-server から定期取得した疑似フィード</description>
+<lastBuildDate>Mon, 16 Nov 2026 14:52:35 -0000</lastBuildDate>
 <item>
-<title>【PETG】CC3D マットグレー PETG 3Dプリンターフィラメント 1.75mm 1kg スプール 高靭性 きれいに巻かれた真空密封 ほとんどのFDM 3Dプリンターに対応 グレー 113742 — ￥1,599 -30%（過去 ￥2,299） クーポンあり</title>
-<link>https://www.amazon.co.jp/dp/B0GTF6D43J</link>
-<guid isPermaLink="false">B0GTF6D43J</guid>
-<pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PETG / 価格: ￥1,599 / 過去価格: ￥2,299 / 割引率: 30% / クーポンあり</description>
-</item>
-<item>
-<title>【PETG】ANYCUBIC PETGフィラメント 1.75mm、高精度±0.02mm、耐久性と長持ちする印刷品質、 高耐熱、耐衝撃（1kg、ブラック） — ￥1,899 -17%（過去 ￥2,299）</title>
+<title>【PETG】ANYCUBIC PETGフィラメント 1.75mm、高精度±0.02mm、耐久性と長持ちする印刷品質、 高耐熱、耐衝撃（1kg、ブラック） — ￥1,899 -17%</title>
 <link>https://www.amazon.co.jp/dp/B0CRYYZ831</link>
 <guid isPermaLink="false">B0CRYYZ831</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PETG / 価格: ￥1,899 / 過去価格: ￥2,299 / 割引率: 17%</description>
+<description>素材: PETG / 価格: ￥1,899 / 過去価格: ￥2,299（-17%）</description>
 </item>
 <item>
-<title>【PLA】ELEGOO PLA Plus フィラメント 1.75mm ±0.02mm 1KG 高精度 低反り 低絡み ブラック — ￥1,783 -15%（過去 ￥2,099）</title>
+<title>【PETG】OVERTURE PETG フィラメント リフィル 1.75mm 1kg スプールなし(アーミーグリーン) — ￥1,899 -17% クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0FNN3JYPQ</link>
+<guid isPermaLink="false">B0FNN3JYPQ</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PETG / 価格: ￥1,899 / 過去価格: ￥2,299（-17%） / クーポンあり</description>
+</item>
+<item>
+<title>【PLA】PLAフィラメント ベーシック 1.75mm 3Dプリンター用フィラメント 真空密封包装 寸法精度±0.03mm 高精度 絡みが少ない 反り少ない スプール無し 各種リムーバブルスプール対応 1kg（2.2lbs）ブラック — ￥1,517 -16%</title>
+<link>https://www.amazon.co.jp/dp/B0H8MZJM2Q</link>
+<guid isPermaLink="false">B0H8MZJM2Q</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,517 / 過去価格: ￥1,799（-16%）</description>
+</item>
+<item>
+<title>【PLA】ELEGOO PLA Plus フィラメント 1.75mm ±0.02mm 1KG 高精度 低反り 低絡み ブラック — ￥1,783 -15%</title>
 <link>https://www.amazon.co.jp/dp/B0BM4KWKPF</link>
 <guid isPermaLink="false">B0BM4KWKPF</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PLA / 価格: ￥1,783 / 過去価格: ￥2,099 / 割引率: 15%</description>
+<description>素材: PLA / 価格: ￥1,783 / 過去価格: ￥2,099（-15%）</description>
 </item>
 <item>
-<title>【PLA】SUNLU フィラメントPLA+2.0 3Dプリンター用 1.75mm径 1KG グレー — ￥1,799 -10%（過去 ￥1,999）</title>
-<link>https://www.amazon.co.jp/dp/B0F9L6CF4H</link>
-<guid isPermaLink="false">B0F9L6CF4H</guid>
-<pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PLA / 価格: ￥1,799 / 過去価格: ￥1,999 / 割引率: 10%</description>
+<title>【PLA】SUNLU PLA Plus フィラメント 1.75mm 高強度 絡みにくい 寸法精度±0.02mm 1kg グレー — ￥1,699 -11%</title>
+<link>https://www.amazon.co.jp/dp/B0GYVWYW29</link>
+<guid isPermaLink="false">B0GYVWYW29</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:35 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,699 / 過去価格: ￥1,899（-11%）</description>
 </item>
 <item>
-<title>【PETG】CC3D 標準PETGフィラメント パープル 1KG 1.75mm 3Dプリンター FDM 3Dプリント素材 PETGフィラメントパープル 112129 — ￥1,399 -7%（過去 ￥1,499）</title>
+<title>【PLA】SUNLU シルクPLA フィラメント 1.75mm 1kgスプール（2.2ポンド）ゴールド — ￥1,623 -10%</title>
+<link>https://www.amazon.co.jp/dp/B0F9NMPMKZ</link>
+<guid isPermaLink="false">B0F9NMPMKZ</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,623 / 過去価格: ￥1,804（-10%）</description>
+</item>
+<item>
+<title>【PETG】CC3D 標準PETGフィラメント パープル 1KG 1.75mm 3Dプリンター FDM 3Dプリント素材 PETGフィラメントパープル 112129 — ￥1,399 -7%</title>
 <link>https://www.amazon.co.jp/dp/B0F6N73VG8</link>
 <guid isPermaLink="false">B0F6N73VG8</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PETG / 価格: ￥1,399 / 過去価格: ￥1,499 / 割引率: 7%</description>
+<description>素材: PETG / 価格: ￥1,399 / 過去価格: ￥1,499（-7%）</description>
 </item>
 <item>
-<title>【PETG】CC3D 標準 PETG フィラメント アーミーグリーン 1KG 1.75mm 3Dプリンターフィラメント FDM 2.2ポンド 3Dプリント素材 PETG グリーンカラー 113734 — ￥1,399 -7%（過去 ￥1,499）</title>
+<title>【PETG】CC3D 標準 PETG フィラメント アーミーグリーン 1KG 1.75mm 3Dプリンターフィラメント FDM 2.2ポンド 3Dプリント素材 PETG グリーンカラー 113734 — ￥1,399 -7%</title>
 <link>https://www.amazon.co.jp/dp/B0G8JF332Q</link>
 <guid isPermaLink="false">B0G8JF332Q</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PETG / 価格: ￥1,399 / 過去価格: ￥1,499 / 割引率: 7%</description>
+<description>素材: PETG / 価格: ￥1,399 / 過去価格: ￥1,499（-7%）</description>
 </item>
 <item>
-<title>【TPU】SUNLU TPU(95A) TPUフィラメント 1.75mm 黒色 — ￥2,659 -5%（過去 ￥2,799）</title>
+<title>【PLA】DEEPLEE マット PLA 1.75mm 艶消し美仕上げ・上質・光沢ゼロ・高靭・±0.02・ノズル詰防 1kg マットホワイト — ￥1,709 -6%</title>
+<link>https://www.amazon.co.jp/dp/B0GV4WYRSW</link>
+<guid isPermaLink="false">B0GV4WYRSW</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,709 / 過去価格: ￥1,820（-6%）</description>
+</item>
+<item>
+<title>【PETG】CC3D 3D プリンタイエロー PETG フィラメント 1.75mm 1KG 黄色 きいろ フィラメント 3D プリント素材 ほとんどの FDM プリンタに対応 CC3D PETG Yellow（イエロー） — ￥1,699 -6%</title>
+<link>https://www.amazon.co.jp/dp/B082WTC39D</link>
+<guid isPermaLink="false">B082WTC39D</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PETG / 価格: ￥1,699 / 過去価格: ￥1,799（-6%）</description>
+</item>
+<item>
+<title>【TPU】SUNLU TPU(95A) TPUフィラメント 1.75mm 黒色 — ￥2,659 -5%</title>
 <link>https://www.amazon.co.jp/dp/B0F9NP58C1</link>
 <guid isPermaLink="false">B0F9NP58C1</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: TPU / 価格: ￥2,659 / 過去価格: ￥2,799 / 割引率: 5%</description>
+<description>素材: TPU / 価格: ￥2,659 / 過去価格: ￥2,799（-5%）</description>
 </item>
 <item>
-<title>【TPU】Flexible TPU 3Dプリンター用FLEX弾性樹脂フィラメント素材 フレキシブルマテリアル弾性曲がりやすい 柔軟性も耐久性も優れる 1.75mm径 正味量1KG(2.2LB) 精確度+/- 0.03mm だいぶの3Dプリンターが適用 (黒/ブラック) — ￥2,660 -5%（過去 ￥2,800）</title>
+<title>【TPU】Flexible TPU 3Dプリンター用FLEX弾性樹脂フィラメント素材 フレキシブルマテリアル弾性曲がりやすい 柔軟性も耐久性も優れる 1.75mm径 正味量1KG(2.2LB) 精確度+/- 0.03mm だいぶの3Dプリンターが適用 (黒/ブラック) — ￥2,660 -5%</title>
 <link>https://www.amazon.co.jp/dp/B074W3Y44S</link>
 <guid isPermaLink="false">B074W3Y44S</guid>
 <pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: TPU / 価格: ￥2,660 / 過去価格: ￥2,800 / 割引率: 5%</description>
+<description>素材: TPU / 価格: ￥2,660 / 過去価格: ￥2,800（-5%）</description>
 </item>
 <item>
 <title>【PLA】PLAフィラメント 1.75mm 1kg 3Dプリンター用 詰まりにくい 寸法精度±0.03mm 真空包装 (ホワイト) — ￥1,799 クーポンあり</title>
@@ -68,6 +96,20 @@
 <description>素材: PLA / 価格: ￥1,799 / クーポンあり</description>
 </item>
 <item>
+<title>【PLA】DEEPLEE PLA PRO 1.75mm 高強度・高靭性・±0.02mm・低反り PLAフィラメント 1KG ブラウン — ￥1,999 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0GV4XZJB3</link>
+<guid isPermaLink="false">B0GV4XZJB3</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,999 / クーポンあり</description>
+</item>
+<item>
+<title>【PLA】Creality Hyper PLA フィラメント 2パック 1.75mm 1kg*2パック合計2kg ±0.03mm (黒白) — ￥5,999 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0DCZ7Q6XD</link>
+<guid isPermaLink="false">B0DCZ7Q6XD</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:35 -0000</pubDate>
+<description>素材: PLA / 価格: ￥5,999 / クーポンあり</description>
+</item>
+<item>
 <title>【PETG】Creality PETG フィラメント リフィル 1.75mm 1kg（2.2lbs）スプールなし 詰め替え用 Bambu Lab再利用可能スプール対応 寸法精度±0.03mm 3Dプリンター用、 黒 — ￥1,799 クーポンあり</title>
 <link>https://www.amazon.co.jp/dp/B0HCNGM7ZN</link>
 <guid isPermaLink="false">B0HCNGM7ZN</guid>
@@ -75,17 +117,17 @@
 <description>素材: PETG / 価格: ￥1,799 / クーポンあり</description>
 </item>
 <item>
-<title>【PLA】PLA Basic 3Dプリンターフィラメント 使いかけも交換可 2本指で簡単着脱 クイック交換スプール（ホワイト） — ￥2,480 クーポンあり</title>
-<link>https://www.amazon.co.jp/dp/B0FQVBJNHB</link>
-<guid isPermaLink="false">B0FQVBJNHB</guid>
-<pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: PLA / 価格: ￥2,480 / クーポンあり</description>
+<title>【PETG】SUNLU PETG フィラメント 1.75mm 1kgスプール ホワイト — ￥1,699 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0GYW3SQCN</link>
+<guid isPermaLink="false">B0GYW3SQCN</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PETG / 価格: ￥1,699 / クーポンあり</description>
 </item>
 <item>
-<title>【TPU】QIDI TECH TPU 95A-HF 高流動柔軟フィラメント 1.75mm 1kg 白 高弾性 高速対応 — ￥5,899 クーポンあり</title>
-<link>https://www.amazon.co.jp/dp/B0CHYG8SD7</link>
-<guid isPermaLink="false">B0CHYG8SD7</guid>
-<pubDate>Mon, 16 Nov 2026 14:23:32 -0000</pubDate>
-<description>素材: TPU / 価格: ￥5,899 / クーポンあり</description>
+<title>【TPU】SainSmart 3Dプリンター TPUフィラメント 夜光 95A 1.75mm径 寸法精度+/-0.05mm 柔軟性も耐久性も優れる新型素材 弾性樹脂 1KG — ￥4,599 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B078TZ1RMK</link>
+<guid isPermaLink="false">B078TZ1RMK</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: TPU / 価格: ￥4,599 / 過去価格: ￥1,999（-0%） / クーポンあり</description>
 </item>
 </channel></rss>
