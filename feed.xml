@@ -3,7 +3,7 @@
 <title>Amazon フィラメント セール（疑似フィード）</title>
 <link>https://www.amazon.co.jp/</link>
 <description>PLA/PETG/TPU/TPE フィラメントのセール品（割引5%以上またはクーポン付き）を mcp-server から定期取得した疑似フィード</description>
-<lastBuildDate>Sat, 21 Nov 2026 11:16:23 -0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 23:12:22 -0000</lastBuildDate>
 <item>
 <title>【PLA】マットPLAフィラメント,3Dプリントフィラメント,PLA フィラメント1.75mm,1kgスプール 寸法精度±0.03mm,ほとんどのFDM方式3DプリンターおよびAMSシステムに対応 (ウォータリーレッド) — ￥1,099 -21%</title>
 <link>https://www.amazon.co.jp/dp/B0FLXWCZCC</link>
@@ -19,13 +19,6 @@
 <description>素材: PLA / 価格: ￥1,517 / 過去価格: ￥1,799（-16%）</description>
 </item>
 <item>
-<title>【PLA】シルクPLAフィラメント、3Dプリンター用PLAメタリックグロスフィラメント、1kgスプール、1.75mm寸法精度+/- 0.03mm、フィラメント,ほとんどのFDMプリンターに対応 (シルクラピスラズリ) — ￥1,099 -15%</title>
-<link>https://www.amazon.co.jp/dp/B0FGTVVNNN</link>
-<guid isPermaLink="false">B0FGTVVNNN</guid>
-<pubDate>Sat, 21 Nov 2026 11:16:23 -0000</pubDate>
-<description>素材: PLA / 価格: ￥1,099 / 過去価格: ￥1,299（-15%）</description>
-</item>
-<item>
 <title>【PLA】SUNLU PLA Plus フィラメント 1.75mm 高強度 絡みにくい 寸法精度±0.02mm 1kg グレー — ￥1,699 -11%</title>
 <link>https://www.amazon.co.jp/dp/B0GYVWYW29</link>
 <guid isPermaLink="false">B0GYVWYW29</guid>
@@ -33,11 +26,11 @@
 <description>素材: PLA / 価格: ￥1,699 / 過去価格: ￥1,899（-11%）</description>
 </item>
 <item>
-<title>【PETG】CHING LEUNG PETG フィラメント1.75mm,3dプリンター フィラメント,寸法精度+/-0.03mm 1kgスプール,3D 造形材料 フィラメント PETG,ほとんどのFDMプリンターと互換性あり (蛍光オレンジ) — ￥1,199 -8%</title>
-<link>https://www.amazon.co.jp/dp/B0FQ5M7WZY</link>
-<guid isPermaLink="false">B0FQ5M7WZY</guid>
-<pubDate>Wed, 18 Nov 2026 11:08:23 -0000</pubDate>
-<description>素材: PETG / 価格: ￥1,199 / 過去価格: ￥1,299（-8%）</description>
+<title>【PLA】DEEPLEE PLA PRO 1.75mm 高強度・高靭性・±0.02mm・低反り PLAフィラメント 1KG ブラウン — ￥1,799 -10% クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0GV4XZJB3</link>
+<guid isPermaLink="false">B0GV4XZJB3</guid>
+<pubDate>Mon, 16 Nov 2026 14:52:19 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,799 / 過去価格: ￥1,999（-10%） / クーポンあり</description>
 </item>
 <item>
 <title>【PETG】CC3D 標準PETGフィラメント パープル 1KG 1.75mm 3Dプリンター FDM 3Dプリント素材 PETGフィラメントパープル 112129 — ￥1,399 -7%</title>
@@ -68,6 +61,13 @@
 <description>素材: PLA / 価格: ￥1,587 / 過去価格: ￥1,671（-5%）</description>
 </item>
 <item>
+<title>【PLA】PLAフィラメントベーシック 1.75mm 3Dプリンター用フィラメント 真空密封包装 寸法精度±0.03mm 整然巻きでスムーズな供給 ほとんどのFDMプリンターに対応 (1KG/スプール 2.2 lbs) ホワイト — ￥1,533 -5%</title>
+<link>https://www.amazon.co.jp/dp/B0G2GVS5BM</link>
+<guid isPermaLink="false">B0G2GVS5BM</guid>
+<pubDate>Sat, 21 Nov 2026 23:12:22 -0000</pubDate>
+<description>素材: PLA / 価格: ￥1,533 / 過去価格: ￥1,614（-5%）</description>
+</item>
+<item>
 <title>【PLA】GEEETECH シルクPLAフィラメント 1.75mm 3Dプリンター用 PLAフィラメント 1kg シルクシルバー — ￥1,709 -5%</title>
 <link>https://www.amazon.co.jp/dp/B0DKP1F39Z</link>
 <guid isPermaLink="false">B0DKP1F39Z</guid>
@@ -96,17 +96,17 @@
 <description>素材: TPU / 価格: ￥2,660 / 過去価格: ￥2,800（-5%）</description>
 </item>
 <item>
-<title>【PLA】ELEGOO マットPLA フィラメント 1.75mm ±0.02mm 1KG プラスチック製スプール 高精度 低反り 低絡み ベージュ — ￥2,299 クーポンあり</title>
-<link>https://www.amazon.co.jp/dp/B0FM3ZF8ZP</link>
-<guid isPermaLink="false">B0FM3ZF8ZP</guid>
-<pubDate>Sat, 21 Nov 2026 11:16:23 -0000</pubDate>
-<description>素材: PLA / 価格: ￥2,299 / クーポンあり</description>
+<title>【PLA】eSUN PLA フィラメント 1.75mm、ePLA-CF 炭素繊維強化PLAフィラメント 寸法精度 +/- 0.03mm、1KGスプール (2.2ポンド) FDM 3Dプリンター用の3Dプリント材料、赤 — ￥2,178 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0CNCG6WJ2</link>
+<guid isPermaLink="false">B0CNCG6WJ2</guid>
+<pubDate>Sat, 21 Nov 2026 23:12:22 -0000</pubDate>
+<description>素材: PLA / 価格: ￥2,178 / クーポンあり</description>
 </item>
 <item>
-<title>【PETG】TINMORRY メタリックPETGフィラメント 1.75mm、3Dプリンター用 PETGフィラメント 1kg、メタリックシルバー — ￥2,374 クーポンあり</title>
-<link>https://www.amazon.co.jp/dp/B0H3VF5H3L</link>
-<guid isPermaLink="false">B0H3VF5H3L</guid>
-<pubDate>Fri, 20 Nov 2026 11:10:23 -0000</pubDate>
-<description>素材: PETG / 価格: ￥2,374 / クーポンあり</description>
+<title>【PETG】CC3D 標準 PETGフィラメント ブラック ブルー 1kg 1.75mm FDM 3Dプリンターフィラメント 3Dプリント素材 PETG ブダーク ラック ブルー — ￥1,399 クーポンあり</title>
+<link>https://www.amazon.co.jp/dp/B0F9DY9S68</link>
+<guid isPermaLink="false">B0F9DY9S68</guid>
+<pubDate>Sat, 21 Nov 2026 23:12:22 -0000</pubDate>
+<description>素材: PETG / 価格: ￥1,399 / クーポンあり</description>
 </item>
 </channel></rss>
